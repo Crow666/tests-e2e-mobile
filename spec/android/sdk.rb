@@ -8,11 +8,11 @@ describe "DIAL-ONCE" do
  desired_caps = {
    caps:  {
         platformName:  'Android',
-#        platformVersion: '7.0',
-        platformVersion: '5.0.1',
-#        deviceName:    'ad091603586e930444',
+        platformVersion: '7.0',
+#        platformVersion: '5.0.1',
+        deviceName:    'ad091603586e930444',
 #        deviceName: 'emulator-5554',
-        deviceName:    '4d00b54cd00c226f',
+#        deviceName:    '4d00b54cd00c226f',
         browser: 'Browser',
         app: '/Users/Crow/Downloads/sample-debug.apk',
 #        appPackage: 'com.android.dialer',

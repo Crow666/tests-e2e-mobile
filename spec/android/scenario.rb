@@ -9,10 +9,10 @@ describe "DIAL-ONCE" do
  desired_caps = {
    caps:  {
         platformName:  'Android',
-#        platformVersion: '7.0',
-        platformVersion: '5.0.1',
-        deviceName:    '4d00b54cd00c226f',
-#        deviceName: 'ad091603586e930444',
+        platformVersion: '7.0',
+#        platformVersion: '5.0.1',
+#       deviceName:    '4d00b54cd00c226f',
+        deviceName: 'ad091603586e930444',
         browserName: 'Chrome',
         appPackage: "com.android.chrome"
 
